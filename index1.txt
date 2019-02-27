@@ -1,2 +1,6 @@
-function aaa(){}
-function bbb(){}
+function aaa(){
+	200줄
+}
+function bbb(){
+	300줄
+}
